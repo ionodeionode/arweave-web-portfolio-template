@@ -71,7 +71,7 @@ const projects = [
     title: "COVALENTHQ.COM",
     period: "",
     image: "/covalenthq_logo.png",
-    description: "AI-driven crypto native businesses powered by Covalent's data infrastructure.",
+    description: "AI-driven crypto native businesses powered by Covalent's data infrastructure. Agents need Data & Covalent is Data.",
     link: "https://www.covalenthq.com/staking",
   },
   {

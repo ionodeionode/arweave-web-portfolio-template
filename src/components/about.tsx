@@ -28,26 +28,16 @@ export function About() {
             transition={{ duration: 0.5, delay: 0.1 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold">
-              Hey, it&apos;s Rohit!
+              WHO WE ARE!
             </h2>
             <p className="text-xl text-muted-foreground">
-              I&apos;m a Developer Relations Engineer based in India,
-              specializing in creating educational content and tools that
-              simplify technical concepts. I&apos;m passionate about the Arweave
-              ecosystem, where I believe in collaboration over competition.
+              In 2017, we embarked on a journey of discovery into the realm of Bitcoin through the vast expanse of the Internet. Since then, our journey has been one of constant learning and exploration, as we diligently seek the tangible benefits that Bitcoin can bestow upon humanity.
             </p>
             <p className="text-xl text-muted-foreground">
-              My journey in the web3 space has been focused on building bridges
-              between complex technology and developers. Through my work at
-              Arweave India, Community Labs, and Developer DAO, I&apos;ve
-              consistently worked to make technology more accessible and
-              enjoyable to learn.
-            </p>
-            <p className="text-xl text-muted-foreground">
-              The following philosophy guides my work, as I always say 👇
+              At our core, we are driven by the ambitious aspiration to pioneer testnet support for emerging projects and eventually establish ourselves as pivotal validators on these projects’ mainnets. With over a decade of profound experience in the IT industry, we possess the proficiency to effortlessly set up a validator node using just a few straightforward steps. Moreover, our adeptness extends to the meticulous monitoring of network status around the clock, ensuring a system uptime of up to 99.999%.👇
             </p>
             {/* <p className="text-xl font-medium italic">
-              &quot;Come for the tech, stay for the vibes.&quot;
+              &quot;Professional PoS Network Validator, Highly Secured & 24/7 Monitored.&quot;
             </p> */}
           </motion.div>
           <motion.div

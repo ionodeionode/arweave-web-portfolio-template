@@ -24,12 +24,10 @@ export function Footer() {
           className="text-center space-y-8"
         >
           <h2 className="text-4xl md:text-5xl font-bold">
-            Let&apos;s create something amazing
+            WHY CHOOSE US
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Whether you&apos;re interested in learning about Arweave, need help
-            with web3 development, or want to collaborate on educational
-            content, I&apos;d love to hear from you.
+            We are applying highest security measures, preventing disruption of services and IT systems from exploitation. By making full use of private connectivities, routings through private endpoints, vnets and peerings – we have built a highly secure architecture.
           </p>
           <motion.div
             whileHover={{ scale: 1.05 }}
@@ -55,7 +53,7 @@ export function Footer() {
             </a>
             <a href="#" className="hover:opacity-70 flex items-center gap-2">
               <MapPin size={20} />
-              <span>India</span>
+              <span>Vietnam</span>
             </a>
           </motion.div>
           <motion.div
@@ -65,7 +63,7 @@ export function Footer() {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <a
-              href="https://x.com/ropats16"
+              href="https://x.com/OrochiIONode"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
@@ -73,15 +71,15 @@ export function Footer() {
               <FaXTwitter size={24} />
             </a>
             <a
-              href="https://youtube.com/rohitcpatharre"
+              href="https://t.me/IONode_VN_chat"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
             >
-              <FaYoutube size={24} />
+              <FaTelegram size={24} />
             </a>
             <a
-              href="https://discord.com/users/ropats16"
+              href="https://discord.com/invite/G4GA7nBwsj"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-70"
@@ -95,7 +93,7 @@ export function Footer() {
             whileInView={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            <p>&copy; {new Date().getFullYear()} Rohit. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} IONode. All rights reserved.</p>
           </motion.div>
         </motion.div>
       </div>

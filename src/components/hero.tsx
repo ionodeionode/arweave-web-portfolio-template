@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { FaXTwitter, FaYoutube, FaDiscord } from "react-icons/fa6";
+import { FaXTwitter, FaTelegram, FaDiscord } from "react-icons/fa6";
 import { handleEmailClick } from "@/lib/utils";
 
 export function Hero() {

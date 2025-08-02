@@ -36,7 +36,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-2xl md:text-4xl text-muted-foreground font-bold tracking-tight"
         >
-          Learn · Innovate · Collaborate
+          Professional PoS Network Validator · Highly Secured · 24/7 Monitored
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -44,9 +44,9 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-xl text-muted-foreground max-w-[600px]"
         >
-          Hey, I&apos;m Rohit! I create educational content and tools that make
-          it super easy for anyone to learn new technical concepts. Currently,
-          I&apos;m building in the Arweave ecosystem with this simple idea 👇
+          We're an expert PoS Cryptocurrency Validator, 
+          assisting investors and token holders in boosting profits 
+          through non-custodial staking. Join us, stake, and earn. 👇
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -54,7 +54,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-xl font-semibold italic"
         >
-          &quot;Come for the tech, stay for the vibes.&quot;
+          &quot;JOIN WITH IONODE.TOP !.&quot;
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -74,7 +74,7 @@ export function Hero() {
           className="flex gap-4 pt-4"
         >
           <a
-            href="https://x.com/ropats16"
+            href="https://x.com/OrochiIONode"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
@@ -82,15 +82,15 @@ export function Hero() {
             <FaXTwitter size={24} />
           </a>
           <a
-            href="https://youtube.com/rohitcpatharre"
+            href="https://t.me/IONode_VN_chat"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
           >
-            <FaYoutube size={24} />
+            <FaTelegram size={24} />
           </a>
           <a
-            href="https://discord.com/users/ropats16"
+            href="https://discord.com/invite/G4GA7nBwsj"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"

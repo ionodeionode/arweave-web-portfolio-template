@@ -44,7 +44,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-xl text-muted-foreground max-w-[600px]"
         >
-          We're an expert PoS Cryptocurrency Validator, 
+          We&apos;re an expert PoS Cryptocurrency Validator, 
           assisting investors and token holders in boosting profits 
           through non-custodial staking. Join us, stake, and earn. 👇
         </motion.p>

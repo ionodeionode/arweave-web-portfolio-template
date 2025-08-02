@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rohit",
-  description: "Learn · Innovate · Collaborate",
+  title: "IONode.Top",
+  description: "Professional PoS Network Validator · Highly Secured · 24/7 Monitored",
   icons: {
     icon: "/favicon.svg",
   },

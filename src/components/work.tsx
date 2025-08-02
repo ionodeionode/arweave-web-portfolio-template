@@ -12,23 +12,23 @@ import {
 
 const projects = [
   {
-    title: "Arweave India",
-    period: "2023 - Present",
-    image: "/ai_logo.png",
+    title: "AR.IO",
+    period: "",
+    image: "/ario_logo.png",
     description:
-      "Leading developer relations and community building initiatives in India",
+      "The first permanent cloud network",
   },
   {
-    title: "Community Labs",
-    period: "2022 - 2024",
-    image: "/clabs_logo.png",
-    description: "Contributed to ecosystem growth and developer education",
+    title: "NAMADA.NET",
+    period: "",
+    image: "/namada_logo.png",
+    description: "Your Gateway to the Shielded Multichain",
   },
   {
-    title: "Developer DAO",
-    period: "2022",
-    image: "/dd_logo.png",
-    description: "Collaborated on web3 developer tooling and education",
+    title: "AXONE.XYZ",
+    period: "",
+    image: "/axone_logo.png",
+    description: "Meaning, Money, and Policy for Onchain Agentic AI",
   },
 ];
 
@@ -49,9 +49,9 @@ export function Work() {
         transition={{ duration: 0.5 }}
         className="text-4xl md:text-6xl font-bold mb-12"
       >
-        Work
+        PROJECT POOLS
         <br />
-        20 - 25
+        MAINNETS
       </motion.h2>
       <div className="grid md:grid-cols-2 gap-8">
         {projects.map((project, index) => (

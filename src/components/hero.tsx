@@ -54,7 +54,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-xl font-semibold italic"
         >
-          &quot;JOIN WITH IONODE.TOP !.&quot;
+          &quot;JOIN WITH IONODE.TOP !&quot;
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

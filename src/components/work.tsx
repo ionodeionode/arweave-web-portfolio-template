@@ -58,7 +58,7 @@ const projects = [
     period: "",
     image: "/lido_logo.png",
     description: "Ethereum’s leading liquid staking token, with best-in-class security, deepest liquidity and competitive rewards",
-    link: "https://explorer.ssv.network/operators/645",
+    link: "https://explorer.ssv.network/mainnet/operator/645",
   },
   {
     title: "KYVE.NETWORK",

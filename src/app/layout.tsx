@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "IONode.Top",
+  title: "IONodeOnline",
   description: "Professional PoS Network Validator · Highly Secured · 24/7 Monitored",
   icons: {
     icon: "/favicon.svg",

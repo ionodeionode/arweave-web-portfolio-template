@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { FaXTwitter, FaTelegram, FaDiscord } from "react-icons/fa6";
+import { FaXTwitter, FaTelegram, FaDiscord, FaFacebook, FaYoutube, } from "react-icons/fa6";
 import { handleEmailClick } from "@/lib/utils";
 
 export function Hero() {
@@ -79,7 +79,7 @@ export function Hero() {
             rel="noopener noreferrer"
             className="hover:opacity-70"
           >
-            <FaXTwitter size={24} />
+            <FaXTwitter size={26} />
           </a>
           <a
             href="https://t.me/IONode_VN_chat"
@@ -87,7 +87,7 @@ export function Hero() {
             rel="noopener noreferrer"
             className="hover:opacity-70"
           >
-            <FaTelegram size={24} />
+            <FaTelegram size={26} />
           </a>
           <a
             href="https://discord.com/invite/G4GA7nBwsj"
@@ -95,7 +95,23 @@ export function Hero() {
             rel="noopener noreferrer"
             className="hover:opacity-70"
           >
-            <FaDiscord size={24} />
+            <FaDiscord size={26} />
+          </a>
+          <a
+            href="https://www.facebook.com/ionode.online"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:opacity-70"
+          >
+            <FaFacebook size={26} />
+          </a>
+          <a
+            href="https://www.youtube.com/@ionodeonline"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:opacity-70"
+          >
+            <FaYoutube size={26} />
           </a>
         </motion.div>
       </motion.div>

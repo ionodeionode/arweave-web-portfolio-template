@@ -82,7 +82,7 @@ export function Hero() {
             <FaXTwitter size={26} />
           </a>
           <a
-            href="https://t.me/IONode_VN_chat"
+            href="https://t.me/iondeonline"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:opacity-70"
